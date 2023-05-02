@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bb88005a5948608ba2c75c8b383351, type: 3}
+  m_Name: CameraData
+  m_EditorClassIdentifier: 
+  <LerpTimeMultiplier>k__BackingField: 100
+  <NormalPosition>k__BackingField: {x: 0, y: 1.5, z: -1.5}
+  <RotationSpeed>k__BackingField: {x: 2, y: 2}
+  <SmoothTime>k__BackingField: 0.1
+  <MovingSpeed>k__BackingField: 5
+  <MinAngle>k__BackingField: -35
+  <MaxAngle>k__BackingField: 50
+  A: {fileID: 0}
